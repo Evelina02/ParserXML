@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurant>
+
+<dish id="ID-7" name="Лосось маринованный" 
+  picture="https://restoran-moskva.ru/assets/images/menu/g4zsqh-pickled.jpg"
+	amount="210 гр"> 
+	<price>7.80</price> 
+	<category name="SNACKS" />
+	<ingredients> 
+		<ingredient name="Лосось"/> 
+		<ingredient name="Апельсин" /> 
+		<ingredient name="Картофель" /> 
+	</ingredients> 
+</dish>
+
+<dish id="ID-9" name="Шашлык из свинины" 
+  picture="https://lh3.googleusercontent.com/proxy/gWN7SGujY_PZGD_pr4oyiEq0YjcLrvE0WWEv-uqJ3VCnETadgNo7Pntag34aeeQgc7IJXPaI-KEm1ZOZ7rmVAikfJwIJfwVvmlKR2vwmG8WlkwKiVDQ"
+	amount="100 гр"> 
+	<price>3.90</price> 
+	<category name="HOT_DISHES" />
+	<ingredients> 
+	    <ingredient name="Свинина"/>
+	    <ingredient name="Лаваш"/>
+	    <ingredient name="Лук"/>
+	    <ingredient name="Соус гриль"/>
+	</ingredients> 
+</dish>  
+
+<dish id="ID-1" name="Овощной" 
+  picture="https://cdn.segodnya.ua/img/article/11305/97_ls.1523642588.jpg"
+	amount="290 гр"> 
+	<price>9.50</price> 
+	<category name="SALADS"/>
+	<ingredients> 
+	    <ingredient name="Помидоры"/>
+	    <ingredient name="Огурцы"/>
+	    <ingredient name="Перец"/>
+	    <ingredient name="Зелень"/>
+	    <ingredient name="Специи"/>
+	    <ingredient name="Оливковое масло"/>
+	    <ingredient name="Лук"/>
+	</ingredients> 
+</dish>
+
+<dish id="ID-3" name="Торт Наполеон" 
+  picture="https://static.1000.menu/img/content/32825/tort-napoleon-s-kremom-plombir_1551355449_1_max.jpg"
+	amount="140 гр"> 
+	<price>5.20</price> 
+	<category name="DESSERTS"/>
+</dish>
+  
+<dish id="ID-5" name="Капучино" 
+  picture="https://avatars.mds.yandex.net/get-zen_doc/62191/pub_5b0e756e20ea2bd294a0523e_5b0e75ce1aa80c98ec3588c0/scale_1200"
+	amount="150 мл"> 
+	<price>2.60</price> 
+	<category name="DRINKS"/>
+</dish>
+
+</restaurant>
